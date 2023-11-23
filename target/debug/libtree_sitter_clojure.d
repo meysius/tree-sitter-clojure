@@ -1,0 +1,1 @@
+/Users/meysam/Code/tree-sitter-clojure/target/debug/libtree_sitter_clojure.rlib: /Users/meysam/Code/tree-sitter-clojure/bindings/rust/build.rs /Users/meysam/Code/tree-sitter-clojure/bindings/rust/lib.rs /Users/meysam/Code/tree-sitter-clojure/src/node-types.json /Users/meysam/Code/tree-sitter-clojure/src/parser.c
